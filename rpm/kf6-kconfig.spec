@@ -1,7 +1,7 @@
 %global  kf_version 6.6.0
 
 Name:		kf6-kconfig
-Version: 6.18.0
+Version: 6.28.0
 Release:	0%{?dist}
 Summary:	KDE Frameworks 6 Tier 1 addon with advanced configuration system
 License:	BSD-2-Clause AND BSD-3-Clause AND CC0-1.0 AND LGPL-2.0-only AND LGPL-2.0-or-later AND LGPL-2.1-only AND LGPL-3.0-only AND MIT
